@@ -21,26 +21,32 @@ I've provided 3 versions of a JDK. Two are for Winows. One is for MAC. If you ne
 
 		3) take a look at the "System Info" it will tell you wheter you are x64bit or something else
 	
-			a) download  "jdk-8u181-windows-x64.exe" if you have x64bit
+			  i) Go to the oracle website (and accept the license agreement) here: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+			 ii) download  "jdk-8u181-windows-x64.exe" if you have x64bit
 	
-			b) download  "jdk-8u181-windows-i586.exe" if you have something else
+			iii) download  "jdk-8u181-windows-i586.exe" if you have something else
 
 	b) If you have a MAC it's easy
 
-		1) download  "jdk-8u181-macosx-x64.dmg"
+		1) Got to the oracle website (and accept the license agreement) here: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	
+		2) download  "jdk-8u181-macosx-x64.dmg"
 
 
 # Now, let's go to the prom....Download our IDE 
 
 So this one is simple. 
+	
+	a) Go to the IntelliJ website here: https://www.jetbrains.com/idea/download/index.html. Make sure you download the Community Edition.
 
 	a) If you have a MAC
 		
-		1) download "ideaIC-2018.2.1.dmg"
+		1) select "macOS" and click "Download"
 
 	b) If you have Windows
 
-		1) download  "ideaIC-2018.2.1.exe"
+		1) select "Windows" and click "Download"
 
 
 
