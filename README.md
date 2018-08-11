@@ -12,13 +12,21 @@ The point is you can't run an IDE without at least the JRE. And you can't develo
 # Let's, install a JDK
 
 I've provided 3 versions of a JDK. Two are for Winows. One is for MAC. If you need a linux version, type this into www.google.com: "download java jdk for linux OS"
+
 	a) If you don't know which Windows version you have do the following
+
 		1) hit: "open windows + R"
+
 		2) type in "msinfo32", hit "ENTER"
+
 		3) take a look at the "System Info" it will tell you wheter you are x64bit or something else
+	
 			a) download  "jdk-8u181-windows-x64.exe" if you have x64bit
+	
 			b) download  "jdk-8u181-windows-i586.exe" if you have something else
+
 	b) If you have a MAC it's easy
+
 		1) download  "jdk-8u181-macosx-x64.dmg"
 
 
