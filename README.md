@@ -32,4 +32,15 @@ I've provided 3 versions of a JDK. Two are for Winows. One is for MAC. If you ne
 
 # Now, let's go to the prom....Download our IDE 
 
+So this one is simple. 
+
+	a) If you have a MAC
+		
+		1) download "ideaIC-2018.2.1.dmg"
+
+	b) If you have Windows
+
+		1) download  "ideaIC-2018.2.1.exe"
+
+
 
