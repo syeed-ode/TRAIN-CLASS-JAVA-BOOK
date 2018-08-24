@@ -1,3 +1,10 @@
+# Coding assignment (Read pages 49 - 60 in Chapter 3, pdf pgs: 83 - 95)
+Create two classes. The first class will be called PracticeExecutionApplication. This class will have one method, public void static main(String [ ] args).
+
+The second class is a table class. It will have three properties: a String object called tableClothColor, a integer variable numberOfSeats, and boolean variable isTableInUse. The table class will have 6 methods all methods are getter and setter methods. (Hint 1: use the IDE to create the getter and setter methods.)
+
+The "main" (reread pages 8, 9, and 10 pdf pgs: 42, 43, 44) method will create two table objects: classRoomTable and diningRoom table. Set the seat number of the classroom table to 4. Set the seat number of the diningRoom table to 8. Print the number of seats to the screen.
+
 # TRAIN-CLASS-JAVA-BOOK
 During this training session you will need a few things. 
 
@@ -47,6 +54,5 @@ So this one is simple.
 	b) If you have Windows
 
 		1) select "Windows" and click "Download"
-
 
 
